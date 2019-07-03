@@ -1,0 +1,4 @@
+Note a bené : les noms des repositorys sont limités en caractères
+
+exemple : j'ai mis Partie2Activité et il s'appel Partie2Aciti
+
