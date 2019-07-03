@@ -3,3 +3,5 @@ Note a bené : les noms des repositorys sont limités en caractères
 exemple : j'ai mis Partie2Activité et il s'appel Partie2Aciti
 
 effectivement les noms des repository ne peuvent avoir plus de 14 caractères
+
+mais tu aurais mettre un meilleur commentaire à ton commit !!!
